@@ -1,0 +1,16 @@
+[23-Feb-2025 22:46:04 UTC] [2025-02-23 22:46:04] ERROR PHP: Error [2]: Undefined variable $undefinedVariable en C:\laragon\www\api\errores\pruebas\pruebaPHP.php línea 5
+
+[23-Feb-2025 22:46:04 UTC] [2025-02-23 22:46:04] ERROR PHP: Excepción: Excepción de prueba en C:\laragon\www\api\errores\pruebas\pruebaPHP.php línea 6
+
+[23-Feb-2025 22:46:56 UTC] [2025-02-23 22:46:56] ERROR PHP: Error [2]: Undefined variable $undefinedVariable en C:\laragon\www\api\errores\pruebas\pruebaPHP.php línea 5
+
+[23-Feb-2025 22:46:56 UTC] [2025-02-23 22:46:56] ERROR PHP: Excepción: Excepción de prueba en C:\laragon\www\api\errores\pruebas\pruebaPHP.php línea 6
+
+[23-Feb-2025 22:47:15 UTC] [2025-02-23 22:47:15] ERROR PHP: Error [2]: Undefined variable $undefinedVariable en C:\laragon\www\api\errores\pruebas\pruebaPHP.php línea 5
+
+[23-Feb-2025 22:47:15 UTC] [2025-02-23 22:47:15] ERROR PHP: Excepción: Excepción de prueba en C:\laragon\www\api\errores\pruebas\pruebaPHP.php línea 6
+
+[24-Feb-2025 03:14:55 UTC] [2025-02-24 03:14:55] ERROR PHP: Error [2]: Undefined variable $undefinedVariable en C:\laragon\www\api\errores\pruebas\pruebaPHP.php línea 5
+
+[24-Feb-2025 03:14:55 UTC] [2025-02-24 03:14:55] ERROR PHP: Excepción: Excepción de prueba en C:\laragon\www\api\errores\pruebas\pruebaPHP.php línea 6
+
